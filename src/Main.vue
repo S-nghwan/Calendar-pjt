@@ -2,6 +2,9 @@
     <div>
         <h1>Main Page</h1>
         <Header></Header>
+        <div>
+            Contens 영역
+        </div>
     </div>
 </template>
 
